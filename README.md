@@ -2,7 +2,7 @@
 ## Aim: To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 ```
 NAME:KAVINRAJ.S
-REG NO:21222300019
+REG NO:212223100019
 ```
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
 ## Theory 
